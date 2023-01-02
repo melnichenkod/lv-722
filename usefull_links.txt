@@ -1,0 +1,2 @@
+https://medium.com/@utatti/call-apply-and-bind-in-javascript-685655a79734
+https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983
